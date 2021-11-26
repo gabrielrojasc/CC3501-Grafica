@@ -1,0 +1,11 @@
+# Blender MTL File: 'blank.blend'
+# Material Count: 1
+
+newmtl gomas
+Ns 31.372549
+Ka 0.000000 0.000000 0.000000
+Kd 0.021978 0.021978 0.021978
+Ks 0.300000 0.300000 0.300000
+Ni 1.000000
+d 1.000000
+illum 2
